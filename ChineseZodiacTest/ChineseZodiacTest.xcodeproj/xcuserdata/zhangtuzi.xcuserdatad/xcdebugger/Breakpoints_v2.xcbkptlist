@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChineseZodiacTest/ViewController.swift"
+            timestampString = "456850500.462633"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChineseZodiacTest.ViewController.yearOfBirth.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextField&gt;"
+                  moduleName = "ChineseZodiacTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangtuzi/code/xcode/ChineseZodiac/ChineseZodiacTest/ChineseZodiacTest/ViewController.swift"
+                  timestampString = "456850430.141723"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChineseZodiacTest.ViewController.yearOfBirth.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextField&gt;"
+                  moduleName = "ChineseZodiacTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangtuzi/code/xcode/ChineseZodiac/ChineseZodiacTest/ChineseZodiacTest/ViewController.swift"
+                  timestampString = "456850430.142538"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChineseZodiacTest.ViewController.init (ChineseZodiacTest.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; ChineseZodiacTest.ViewController"
+                  moduleName = "ChineseZodiacTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangtuzi/code/xcode/ChineseZodiac/ChineseZodiacTest/ChineseZodiacTest/ViewController.swift"
+                  timestampString = "456850430.142745"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChineseZodiacTest.ViewController.init (ChineseZodiacTest.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; ChineseZodiacTest.ViewController"
+                  moduleName = "ChineseZodiacTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangtuzi/code/xcode/ChineseZodiac/ChineseZodiacTest/ChineseZodiacTest/ViewController.swift"
+                  timestampString = "456850430.142931"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
